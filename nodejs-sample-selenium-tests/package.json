@@ -1,0 +1,18 @@
+{
+  "name": "HelloWorldSeleniumTests",
+  "private": true,
+  "version": "0.0.0",
+  "description": "Hello World Selenium Tests",
+  "main": "server.js",
+  "author": {
+    "name": "",
+    "email": ""
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "mocha": "^3.0.0",
+    "selenium-webdriver": "^3.0.1"
+  }
+}
